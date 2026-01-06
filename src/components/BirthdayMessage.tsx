@@ -24,7 +24,7 @@ const BirthdayMessage = () => {
           {/* Message content */}
           <div className="bg-gradient-to-br from-pink-light via-card to-lavender-light rounded-3xl p-8 md:p-12 shadow-card border border-border/50">
             <div className="font-handwritten text-xl md:text-2xl text-foreground leading-relaxed space-y-6">
-              <p>My Dearest Best Friend,</p>
+              <p>My Dearest Maki,</p>
               
               <p>
                 Today marks another beautiful year of your life, and I couldn't be more grateful 
