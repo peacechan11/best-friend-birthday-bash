@@ -24,7 +24,7 @@ const HeroSection = () => {
         {/* Main heading */}
         <h1 className="font-handwritten text-4xl md:text-6xl lg:text-7xl text-foreground mb-6 leading-tight">
           Happy Birthday,{" "}
-          <span className="text-gradient">My Best Friend</span>{" "}
+          <span className="text-gradient">Maki</span>{" "}
           <span className="inline-block animate-wiggle">🎉</span>
           <span className="inline-block animate-float">💖</span>
         </h1>
