@@ -54,7 +54,7 @@ const BirthdayMessage = () => {
               <p className="text-right pt-4">
                 With all my love and infinite hugs,
                 <br />
-                <span className="text-primary">Your Best Friend Forever 💖</span>
+                <span className="text-primary">Chan 💖</span>
               </p>
             </div>
 
