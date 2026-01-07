@@ -1,73 +1,78 @@
-# Welcome to your Lovable project
+# 🎂 Happy Birthday Maki! 🎉
 
-## Project info
+A beautiful, interactive birthday celebration website created with love for Maki.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## ✨ Features
 
-## How can I edit this code?
+- **🎈 Animated Balloons** - Colorful floating balloons that create a festive atmosphere
+- **🎊 Confetti Effects** - Celebration confetti animations throughout the page
+- **✨ Sparkle Animations** - Magical sparkle effects for added enchantment
+- **💌 Heartfelt Birthday Message** - A personalized letter expressing love and appreciation
+- **📸 Memory Gallery** - A collection of cherished memories and moments
+- **🌟 Qualities Section** - Highlights of Maki's wonderful qualities
+- **🎁 Surprise Section** - Special surprises and wishes
+- **🎵 Background Music** - Music player to set the celebration mood
+- **📱 Fully Responsive** - Looks beautiful on all devices
 
-There are several ways of editing your application.
+## 🛠️ Tech Stack
 
-**Use Lovable**
+- **React 18** - Modern React with hooks
+- **TypeScript** - Type-safe development
+- **Vite** - Fast build tool and dev server
+- **Tailwind CSS** - Utility-first styling
+- **shadcn/ui** - Beautiful UI components
+- **Framer Motion** - Smooth animations
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 🚀 Getting Started
 
-Changes made via Lovable will be committed automatically to this repo.
+### Prerequisites
 
-**Use your preferred IDE**
+- Node.js (v18 or higher)
+- npm or bun
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Installation
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+```bash
+# Clone the repository
+git clone <your-repo-url>
 
-Follow these steps:
+# Navigate to the project
+cd <project-folder>
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Install dependencies
+npm install
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+The app will be available at `http://localhost:5173`
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📁 Project Structure
 
-**Use GitHub Codespaces**
+```
+src/
+├── components/
+│   ├── Balloon.tsx        # Floating balloon animations
+│   ├── BirthdayMessage.tsx # Main birthday letter
+│   ├── Confetti.tsx       # Confetti effects
+│   ├── Footer.tsx         # Page footer
+│   ├── HeroSection.tsx    # Hero banner section
+│   ├── MemoryGallery.tsx  # Photo gallery
+│   ├── MusicPlayer.tsx    # Background music control
+│   ├── QualitiesSection.tsx # Qualities highlight
+│   ├── Sparkles.tsx       # Sparkle animations
+│   ├── SurpriseSection.tsx # Surprise content
+│   └── ui/                # shadcn/ui components
+├── pages/
+│   └── Index.tsx          # Main page
+└── index.css              # Global styles & theme
+```
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 💖 Made With Love
 
-## What technologies are used for this project?
+Created by **Chan** with love and care for Maki's special day! 🎂
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+*Happy Birthday, Maki! May all your dreams come true! 🌟*
